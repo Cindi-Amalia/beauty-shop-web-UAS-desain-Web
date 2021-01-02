@@ -1,0 +1,52 @@
+body{
+	background-color: thistle;
+}
+.carousel{
+	margin-top: 20px;
+}
+
+.navbar-brand {
+	font-family: 'Langar', cursive;
+}
+
+.navbar{
+	font-family: 'Andika New Basic', sans-serif;
+}
+
+h4, p{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.row{
+	background-color: lightyellow;
+}
+.new{
+	background-color:  moccasin;
+	padding: 20px;
+	margin-top: 13px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+	background-color: pink;
+}
+.sale{
+	background-color: moccasin;
+	padding: 20px;
+	margin-top: 13px;
+}
+.footer{
+	margin-top: 15px;
+	text-align: center;
+	background-color: lightpink;
+	border: 2px solid #B0C4DE;
+  	padding: 30px;
+  	font-family: 'Abel', sans-serif;
+}
+.footer a{
+	color: black;
+
+}
